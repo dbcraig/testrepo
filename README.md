@@ -5,4 +5,4 @@ Desktop : local change -- DBC
 
 ... and from RStudio, too !
 
-trying a seoncd change .. with intentional error
+trying a second change .. with intentional error
